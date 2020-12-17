@@ -11,4 +11,7 @@ module.exports = {
     konfirmasisandiBaru : "harrypotter", // signup feature
     email : " ", //tambah riwayat feature
     pw : " ",//tambah riwayat feature
+    email: "kelompok5dti@gmail.com", // login feature
+    pw: "harrypotter100%", // login feature
+    wrongpw : "ronweasley" // login feature
 }
