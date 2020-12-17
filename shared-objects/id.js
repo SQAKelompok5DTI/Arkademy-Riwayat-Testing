@@ -10,5 +10,5 @@ module.exports = {
     konfirmasisandi :  "harrypotter100%", // signup feature
     konfirmasisandiBaru : "harrypotter", // signup feature
     email : " ", //tambah riwayat feature
-    pw : " "//tambah riwayat feature
+    pw : " ",//tambah riwayat feature
 }
