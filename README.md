@@ -1,2 +1,3 @@
 # Repository-Baru
-    Test yu bisa yuu
+     Dokumentasi project (Test Plan, Test Monitoring dan Test Reporting) dan Poster 
+		 Berada di link ini : https://bit.ly/DokumentasiArkademy
