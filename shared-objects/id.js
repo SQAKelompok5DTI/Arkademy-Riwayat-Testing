@@ -1,12 +1,12 @@
 module.exports = {
-    NamaLengkap : "Kelompok 5" ,
-    NamaLengkapBaru : "DTI Kelompok 5",
-    emailDaftar : "SQA01kelompok5@gmail.com" ,
-    emailLama : "kelompok5dti@gmail.com" ,
-    nomor :"08221833486",
-    nomorBaru : "081234567891",
-    sandi : "harrypotter100%",
-    sandiBaru : "harrypotter",
-    konfirmasisandi :  "harrypotter100%",
-    konfirmasisandiBaru : "harrypotter",
+    NamaLengkap : "Kelompok 5" ,  // signup case
+    NamaLengkapBaru : "DTI Kelompok 5", // signup case
+    emailDaftar : "SQA01kelompok5@gmail.com" , // signup case
+    emailLama : "kelompok5dti@gmail.com" , // signup case
+    nomor :"08221833486", // signup case
+    nomorBaru : "081234567891", // signup case
+    sandi : "harrypotter100%", // signup case
+    sandiBaru : "harrypotter", // signup case
+    konfirmasisandi :  "harrypotter100%", // signup case
+    konfirmasisandiBaru : "harrypotter", // signup case
 }
