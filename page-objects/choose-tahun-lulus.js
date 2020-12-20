@@ -8,7 +8,7 @@ module.export = {
 
     perform: function(){
         var selector = page.chooseTahunMasuk.element.chooseTahunMasuk;
-        return driver.findElement(selector).sendKeys( );
+        return driver.findElement("//span[normalize-space()='2021']").click( );
     }
 
 }
