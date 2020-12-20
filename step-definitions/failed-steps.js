@@ -23,7 +23,9 @@ module.exports = function() {
     });
 
     this.Given(/^klik profile 2$/, function (){
-        helpers.loadPage("https://www.arkademy.com/profile")
+        driver.then(function()  {
+            return page.clickPofile.perform();
+        })
     })
 
     this.Given(/^Klik \+Tambah pada bagian box Riwayat Pendidikan 2$/, function () {
