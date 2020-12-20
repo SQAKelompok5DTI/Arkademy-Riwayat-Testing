@@ -8,7 +8,7 @@ module.export = {
 
     perform: function(){
         var selector = page.chooseTahunMasuk.element.chooseTahunMasuk;
-        return driver.findElement(selector).sendKeys(2020);
+        return driver.findElemexxnt().clik();
     }
 
 }
